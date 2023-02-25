@@ -1,0 +1,34 @@
+@font-face{
+    font-family: 'Mo';
+    src:url('MODERNA_.TTF')format('opentype'), url('MODERNA_.TTF')format('truetype');
+    font-weight:normal;
+    font-style:normal;
+ 
+ }
+
+
+body{
+    background-image: url('bckgrou.png');
+}
+
+
+#dvm{
+    color: #000000;
+    background-color: hsl(117, 94%, 69%);
+    border: none;
+    height: 60px;
+    line-height: 30px;
+    padding: 0 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: Mo;
+    border-radius: 30px;
+    letter-spacing: 4px;
+    margin-left: 900px;
+    margin-top: 800px;
+    
+}
+#dvm:hover{
+    background-color: hsl(117, 97%, 60%);
+}
