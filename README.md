@@ -19,3 +19,7 @@ Using `node (npm i)`
 ## Versions Info<>
 
 v.1.5 - **Init Repo** 
+
+v.1.5.2 - **gitignore and readmeRTRTTTTTTK**  
+
+---
