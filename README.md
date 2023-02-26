@@ -21,5 +21,6 @@ Using `node (npm i)`
 v.1.5 - **Init Repo** 
 
 v.1.5.1.2 - **gitignore and readmeRTRTTTTTTK**  
+v.2.2 - **Links and image;s**  
 
 ---

@@ -25,10 +25,29 @@ body{
     font-family: Mo;
     border-radius: 30px;
     letter-spacing: 4px;
-    margin-left: 900px;
+    margin-left: 850px;
     margin-top: 800px;
     
 }
 #dvm:hover{
     background-color: hsl(117, 97%, 60%);
+}
+
+
+#im{
+    max-width:45px;
+    max-height:45px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: auto;
+    height: auto;
+}
+#im1{
+    max-width:45px;
+    max-height:45px;
+    margin-left: 1800px;
+    margin-top: -50px;
+    width: auto;
+    height: auto;
+
 }
