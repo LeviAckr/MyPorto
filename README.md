@@ -20,6 +20,6 @@ Using `node (npm i)`
 
 v.1.5 - **Init Repo** 
 
-v.1.5.2 - **gitignore and readmeRTRTTTTTTK**  
+v.1.5.1.2 - **gitignore and readmeRTRTTTTTTK**  
 
 ---
